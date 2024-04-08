@@ -1,16 +1,19 @@
-# scholar_chat
 
-A new Flutter project.
+<h1>Public Chat</h1>
 
-## Getting Started
+  <p>
+    Chat App  In Flutter & Firebase | Promo Video
+    https://www.youtube.com/watch?v=RLBw3_skn8U
+  </p>
 
-This project is a starting point for a Flutter application.
+    <p>
+    Firebase Authentication In Flutter | Sign Up & Log In Pages
+    [https://www.youtube.com/watch?v=RLBw3_skn8U](https://www.youtube.com/watch?v=lpFFbk3RSD4)
+  </p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+GitHub Profile → https://github.com/RashadPro
+Linked in Profile → https://bit.ly/linkedin-rashad
+Facebook Profile → https://bit.ly/Facebook-rashad
+Instagram Profile → https://bit.ly/instagram-rashad
+</p>
